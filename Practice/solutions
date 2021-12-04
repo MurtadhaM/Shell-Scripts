@@ -1,0 +1,24 @@
+# @Author: Murtadha Marzouq
+# @Date: Sat 4th 2021
+#EASY
+#1. #w ;or; #who 
+#2. uptime
+#3. lsof -i
+
+
+#medium 
+# last
+# cd -
+
+
+
+
+#HARD
+#1. echo "example1\nexample2\nexample3" > output
+#2. lls 2> errors
+#3. while read line; do echo "Line is " $line; done < example
+
+
+#Bonus:
+
+#10. AWK, ZSH, FISH, SH

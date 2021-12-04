@@ -1,0 +1,20 @@
+# EASY
+#1. curently logged in users
+#2. Uptime of the current system 
+#3. currently open ports and the applications using it 
+
+
+# Medium 
+#1. date of time of all system login since first system run
+#2. Go the last directory using cd 
+
+
+
+#HARD
+#1. Please echo 3 lines seperated by "New Line" into a file called output
+#2. Write the command errors to a file called errors
+#3.loop over each line of the example file and append Line infront of it
+
+
+#Bonus:  
+#10 List 3 different terminal shells and the difference between them
